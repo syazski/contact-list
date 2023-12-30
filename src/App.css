@@ -34,9 +34,23 @@
 }
 
 .card {
-  padding: 2em;
+  padding: 5em;
 }
 
 .read-the-docs {
   color: #888;
+}
+
+table {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: saddlebrown;
+}
+
+thead, #head {
+  color:bisque;
+}
+
+#title {
+  font-size: 40px;
 }
